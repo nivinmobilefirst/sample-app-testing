@@ -69,5 +69,9 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
-  }
+  },
+  "overrides": {
+  "string-width": "4.2.3"
+}
+
 }
